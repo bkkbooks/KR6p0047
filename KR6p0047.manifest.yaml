@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6p0047/v1
+canonical_location: https://kanripo.org/bkk/KR6p0047/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 往生淨土決疑行願二門
+  identifiers:
+    alt_id:
+    - T47n1968
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1968.xml
+    old_id: T47n1968
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0047_000.yaml, hash: 'sha256:f5b9eb39a9b2162d9e3962e77352d061fb06032bf6f96df9d9b5c87e16fd06ec'}
+  - {seq: 1, filename: KR6p0047_001.yaml, hash: 'sha256:ae02f05a9a6f20d13cb01727bf9ee56c4f5b734429c10633f877830159ff5a23'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6p0047_001.markers.yaml, hash: 'sha256:af9e79cf802b961c32dd832d67c4d6f94e6d7676826cc7115a1936fe03031caf'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6p0047_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4575
+  label: 往生淨土決疑行願二門
+  type: juan
+  level: 1
+hash: sha256:ebedb664ca4d807c3f5b998d4f458f305cdf253af89a6422638fe471e0ed4454
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

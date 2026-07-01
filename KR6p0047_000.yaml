@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6p0047/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 往生淨土決疑行願二門
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1968.xml
+    old_id: T47n1968
+hash: sha256:f5b9eb39a9b2162d9e3962e77352d061fb06032bf6f96df9d9b5c87e16fd06ec
