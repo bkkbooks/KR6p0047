@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6p0047_000.yaml, hash: 'sha256:f5b9eb39a9b2162d9e3962e77352d061fb06032bf6f96df9d9b5c87e16fd06ec'}
-  - {seq: 1, filename: KR6p0047_001.yaml, hash: 'sha256:ae02f05a9a6f20d13cb01727bf9ee56c4f5b734429c10633f877830159ff5a23'}
+  - {seq: 1, filename: KR6p0047_001.yaml, hash: 'sha256:6f7996ddac105e7af8fa58ea041e09cf0aad1d3217b22e189b8e3b9530da1fdd'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6p0047_001.markers.yaml, hash: 'sha256:af9e79cf802b961c32dd832d67c4d6f94e6d7676826cc7115a1936fe03031caf'}
+  - {seq: 0, role: markers, filename: assets/KR6p0047_000.markers.yaml, hash: 'sha256:5f1831e234890e070b283fcb2d1c7cb68b7408acc4606fa27015764ed12755dc'}
+  - {seq: 1, role: markers, filename: assets/KR6p0047_001.markers.yaml, hash: 'sha256:0e7c0fa38aa65b3e4f3e2d079df2b713ec20dd03ce609b2d71b3f39a140e7ac3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 往生淨土決疑行願二門
   type: juan
   level: 1
-hash: sha256:ebedb664ca4d807c3f5b998d4f458f305cdf253af89a6422638fe471e0ed4454
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:000b80326bc287dd01a06b6cf6bd13f5e509d05759595afd4d51e4802dff1304
