@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6p0047/v1
 canonical_location: https://kanripo.org/bkk/KR6p0047/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 往生淨土決疑行願二門
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6p0047_000.yaml, hash: 'sha256:f5b9eb39a9b2162d9e3962e77352d061fb06032bf6f96df9d9b5c87e16fd06ec'}
-  - {seq: 1, filename: KR6p0047_001.yaml, hash: 'sha256:6f7996ddac105e7af8fa58ea041e09cf0aad1d3217b22e189b8e3b9530da1fdd'}
+  - {seq: 1, filename: KR6p0047_001.yaml, hash: 'sha256:2653dacbe6daa2ed5e3c24c3c9c65cda6b7dbddc7991a0cbee2da9bd8cfe3ca6'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6p0047_000.markers.yaml, hash: 'sha256:5f1831e234890e070b283fcb2d1c7cb68b7408acc4606fa27015764ed12755dc'}
-  - {seq: 1, role: markers, filename: assets/KR6p0047_001.markers.yaml, hash: 'sha256:0e7c0fa38aa65b3e4f3e2d079df2b713ec20dd03ce609b2d71b3f39a140e7ac3'}
+  - {seq: 1, role: markers, filename: assets/KR6p0047_001.markers.yaml, hash: 'sha256:9b059eeddb3bae8123d7d82d801e92a496a7667f7eb197c1203618339e7b2db0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 往生淨土決疑行願二門
   type: juan
   level: 1
-hash: sha256:000b80326bc287dd01a06b6cf6bd13f5e509d05759595afd4d51e4802dff1304
+hash: sha256:7b7bf259fe07b0a075c31dd5919b2d83b491dbf331a9379d92db3a5fd3efd7a7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
